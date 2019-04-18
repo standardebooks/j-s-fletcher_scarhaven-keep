@@ -2,6 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 span[epub|type~="subtitle"]{
-    display: block;
-    font-weight: normal;
+	display: block;
+	font-weight: normal;
 }
