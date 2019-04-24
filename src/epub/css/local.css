@@ -6,22 +6,22 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-blockquote.headline,
-blockquote.note {
+#chapter-7-blockquote,
+#chapter-9-blockquote {
 	font-variant: small-caps;
 }
 
-blockquote.tombstone {
+#chapter-18-blockquote {
 	font-variant: small-caps;
 	text-align: center;
 	line-height: 2em;
 }
 
-blockquote.tombstone p {
+#chapter-18-blockquote p {
 	text-indent: 0;
 }
 
-blockquote.tombstone p:first-child {
+#chapter-18-blockquote p:first-child {
 	font-size: 1.25em;
 	text-transform: uppercase;
 }
