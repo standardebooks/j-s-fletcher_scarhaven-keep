@@ -38,9 +38,7 @@
 		<dc:description id="description">A famous actor goes missing on the northern English sea coast.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-		&lt;p&gt;In &lt;i&gt;Scarhaven Keep&lt;/i&gt;, the playwright Richard Copplestone is pulled into a search for a missing actor which leads
-		him to the town of Scarhaven on the northern English sea coast. As he slowly uncovers the secrets of the residents of Scarhaven, the
-		mystery deepens and reveals much more than a simple missing person.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Scarhaven Keep&lt;/i&gt;, the playwright Richard Copplestone is pulled into a search for a missing actor which leads him to the town of Scarhaven on the northern English sea coast. As he slowly uncovers the secrets of the residents of Scarhaven, the mystery deepens and reveals much more than a simple missing person.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
