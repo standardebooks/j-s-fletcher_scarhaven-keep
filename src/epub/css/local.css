@@ -5,3 +5,23 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+blockquote.headline,
+blockquote.note {
+	font-variant: small-caps;
+}
+
+blockquote.tombstone {
+	font-variant: small-caps;
+	text-align: center;
+	line-height: 2em;
+}
+
+blockquote.tombstone p {
+	text-indent: 0;
+}
+
+blockquote.tombstone p:first-child {
+	font-size: 1.25em;
+	text-transform: uppercase;
+}
