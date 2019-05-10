@@ -14,7 +14,6 @@ span[epub|type~="subtitle"]{
 #chapter-18 blockquote{
 	font-variant: small-caps;
 	text-align: center;
-	line-height: 2em;
 }
 
 #chapter-18 blockquote p{
