@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-9.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>The matched text is not dialog, but an address on an envelope.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
