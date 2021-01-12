@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9807</dc:source>
 		<dc:source>https://archive.org/details/scarhavenkeep00fletuoft</dc:source>
-		<meta property="se:word-count">76813</meta>
+		<meta property="se:word-count">76815</meta>
 		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_scarhaven-keep</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
