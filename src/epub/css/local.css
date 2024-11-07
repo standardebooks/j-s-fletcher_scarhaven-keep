@@ -16,6 +16,6 @@
 }
 
 #chapter-18 blockquote p:first-child{
-	font-size: 1.25em;
+	font-size: larger;
 	text-transform: uppercase;
 }
