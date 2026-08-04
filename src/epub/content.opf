@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">sh85037260</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>A famous actor goes missing on the northern English sea coast.</dc:abstract>
+		<meta property="schema:abstract">A famous actor goes missing on the northern English sea coast.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;Scarhaven Keep&lt;/i&gt;, the playwright Richard Copplestone is pulled into a search for a missing actor which leads him to the town of Scarhaven on the northern English sea coast. As he slowly uncovers the secrets of the residents of Scarhaven, the mystery deepens and reveals much more than a simple missing person.&lt;/p&gt;
 		</dc:description>
